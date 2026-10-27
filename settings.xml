@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<TrailSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Enabled>true</Enabled>
+  <HideWhileSelecting>true</HideWhileSelecting>
+  <Lifetime>0.9</Lifetime>
+  <StrokeWidth>4.2</StrokeWidth>
+  <Brightness>0.95</Brightness>
+  <Glow>1</Glow>
+  <FadePower>2</FadePower>
+  <Rainbow>true</Rainbow>
+  <ColorCycle>28</ColorCycle>
+  <FixedColor>-11478785</FixedColor>
+  <FrameInterval>33</FrameInterval>
+  <TrailShape>1</TrailShape>
+</TrailSettings>
